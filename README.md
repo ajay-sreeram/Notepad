@@ -1,4 +1,4 @@
 Notepad
 =======
 
-this is the program written in Java that results an editor looks like Notepad
+Java applet app, looks like Notepad in Windows
